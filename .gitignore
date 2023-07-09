@@ -1,0 +1,41 @@
+# Ignore .env file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+*.cache
+
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore temporary files and directories
+.tmp/
+.temp/
+.temp-*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files and directories
+.idea/
+.vscode/
+
+# Ignore dependencies
+/node_modules/
+/bower_components/
+/vendor/
